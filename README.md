@@ -25,3 +25,9 @@ These columns are:
 * Petal Length
 * Petal Width
 * Species(setosa, versicolor, virginica)
+
+## Using this repository
+
+git clone https://github.com/Damian404/Jupyter-numpy-and-pyplot.git
+
+Then open Jupyter notebook and open clone
