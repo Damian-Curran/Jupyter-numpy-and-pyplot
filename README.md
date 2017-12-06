@@ -1,5 +1,10 @@
 # Jupyter-numpy-and-pyplot
 
+## Problem Sheet 3
+
+In this repository we will be taking a look at the Iris data set and investigating its different aspects.
+We will then graph the line of best fit and the Gradient Descent.
+We will also briefly use the Seaborn library.
 
 ## Installing needed technologies
 
