@@ -14,3 +14,14 @@ Install Jupyter notebook using: python3 -mpip install matplotlib
 Install Matplotlib using: pip3 install jupyter
 
 Laslty for this example you will need the Seaborn library, open cmd one last time and enter "pip3 install seaborn"
+
+## Iris data set
+
+The data set consists of 5 columns and 150 rows.
+
+These columns are:
+* Sepal Length
+* Sepal Width
+* Petal Length
+* Petal Width
+* Species(setosa, versicolor, virginica)
